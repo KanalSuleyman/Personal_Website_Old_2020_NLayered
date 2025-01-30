@@ -1,7 +1,3 @@
-Based on the image of your solution structure, here is how we can enhance the **README** to reflect the folder structure and clarify the purpose of each project in your solution.
-
----
-
 # Personal_Website_Old_2020_NLayered
 
 This project is an unfinished personal website created in 2020 using **ASP.NET Core**, **Entity Framework Core**, and a **N-layered architecture**. It was designed to serve as both a **portfolio** and a **blog** site. The repository utilizes jQuery for client-side scripting and incorporates **AutoMapper** for object-object mapping between layers.
