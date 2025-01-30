@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.mvc\\wwwroot\\js\\userindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|solutionrelative:personalwebsite.mvc\\wwwroot\\js\\userindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.mvc\\areas\\admin\\models\\useraddajaxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|solutionrelative:personalwebsite.mvc\\areas\\admin\\models\\useraddajaxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.mvc\\areas\\admin\\models\\categoryupdateajaxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|solutionrelative:personalwebsite.mvc\\areas\\admin\\models\\categoryupdateajaxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|solutionrelative:personalwebsite.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AFBE6D6-BC66-4E90-9476-56B32E99F733}|PersonalWebsite.Mvc\\PersonalWebsite.Mvc.csproj|solutionrelative:personalwebsite.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E2E17-99B0-4489-847D-755513611EC0}|PersonalWebsite.Shared\\PersonalWebsite.Shared.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E2E17-99B0-4489-847D-755513611EC0}|PersonalWebsite.Shared\\PersonalWebsite.Shared.csproj|solutionrelative:personalwebsite.shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\abstract\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\abstract\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userIndex.js",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\wwwroot\\js\\userIndex.js",
+              "RelativeDocumentMoniker": "PersonalWebsite.Mvc\\wwwroot\\js\\userIndex.js",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\wwwroot\\js\\userIndex.js",
+              "RelativeToolTip": "PersonalWebsite.Mvc\\wwwroot\\js\\userIndex.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T12:06:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryUpdateAjaxViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Models\\CategoryUpdateAjaxViewModel.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Mvc\\Areas\\Admin\\Models\\CategoryUpdateAjaxViewModel.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Models\\CategoryUpdateAjaxViewModel.cs",
+              "RelativeToolTip": "PersonalWebsite.Mvc\\Areas\\Admin\\Models\\CategoryUpdateAjaxViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:06:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAddAjaxViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Models\\UserAddAjaxViewModel.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Mvc\\Areas\\Admin\\Models\\UserAddAjaxViewModel.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Models\\UserAddAjaxViewModel.cs",
+              "RelativeToolTip": "PersonalWebsite.Mvc\\Areas\\Admin\\Models\\UserAddAjaxViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:06:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:05:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PersonalWebsite.Mvc\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:04:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:03:29.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:59.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:40.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "RelativeToolTip": "PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:35:59.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

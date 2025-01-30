@@ -1,0 +1,12 @@
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\bin\Debug\net6.0\PersonalWebsite.Shared.deps.json
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\bin\Debug\net6.0\PersonalWebsite.Shared.dll
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\bin\Debug\net6.0\PersonalWebsite.Shared.pdb
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.csproj.AssemblyReference.cache
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.AssemblyInfo.cs
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.dll
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\refint\PersonalWebsite.Shared.dll
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\PersonalWebsite.Shared.pdb
+C:\Users\suley\source\repos\PersonalWebsite\PersonalWebsite.Shared\obj\Debug\net6.0\ref\PersonalWebsite.Shared.dll

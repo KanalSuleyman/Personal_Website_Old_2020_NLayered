@@ -1,0 +1,56 @@
+﻿@model PersonalWebsite.Entities.Dtos.UserAddDto
+
+<div class="modal">
+    <div class="card">
+        <span class="close">&times;</span>
+
+        <form asp-action="Add" id="form-user-add">
+            <input name="IsValid" type="hidden" value="@ViewData.ModelState.IsValid.ToString()" />
+            <div asp-validation-summary="All" id="asp-validation-summary" asia-hidden="true" style="display: none;"></div>
+            <h2><i class='bx bxs-user-alt'></i>Add User</h2>
+            <br />
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="UserName" class="input__field" type="text" placeholder=" " />
+                    <span asp-validation-for="UserName" class="input__label">User Name</span>
+                </label>
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="Email" class="input__field" type="email" placeholder=" " />
+                    <span asp-validation-for="Email" class="input__label">Email</span>
+                </label>
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="Password" class="input__field" type="password" placeholder=" " />
+                    <span asp-validation-for="Password" class="input__label">Password</span>
+                </label>
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="PictureFile" class="input__field" type="file" accept="image/*" placeholder="Please choose a picture" />
+                    <span asp-validation-for="PictureFile" class="input__label"></span>
+                </label>
+                <span asp-validation-for="PictureFile"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="PictureFileName" value="default.png" class="input__field" type="hidden" placeholder=" " />
+                </label>
+            </div>
+
+            <div class="button-group">
+                <button type="button" class="save-button" id="btnSave">Add</button>
+                <button class="cancel" type="cancel">Cancel</button>
+            </div>
+        </form>
+    </div>
+
+</div>

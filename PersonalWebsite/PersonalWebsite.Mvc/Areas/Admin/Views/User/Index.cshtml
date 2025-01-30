@@ -1,0 +1,84 @@
+﻿@using PersonalWebsite.Shared.Utilities.Results.ComplexTypes
+@model PersonalWebsite.Entities.Dtos.UserListDto
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Users Index";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/entity-items.css"/>
+    <link rel="stylesheet" href="~/css/modal-form.css"/>
+}
+
+@if(Model.ResultStatus == ResultStatus.Success)
+{
+    <br />
+    <h1>Users Are Here!</h1>
+    <br />
+    <br />
+    <br />
+    <div id="modalPlaceHolder"></div>
+    
+    <div class="tableDiv">
+        <div class="loader" style="display: none;">
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            Loading...
+        </div>
+        <table id="usersTable" class="display">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Picture</th>
+                    @*<th>Number of the articles</th>*@
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var user in Model.Users) {
+                    <tr name="@user.Id">
+                        <td>@user.Id</td>
+                        <td>@user.UserName</td>
+                        <td>@user.Email</td>
+                        <td><img src="~/userImages/@user.PictureFileName" alt="@user.UserName" style="max-height: 50px; max-width: 50px;" /></td>
+                        <td class="column-operations">
+                            <button class="btn-update" data-id="@user.Id"><i class='bx bx-edit-alt'></i></button>
+                            <button class="btn-delete" data-id="@user.Id"><i class='bx bxs-trash'></i></button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Id</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Picture</th>
+                    @*<th>Number of the articles</th>*@
+                    <th>Operations</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <br />
+    <br />
+    <div >
+        User with the best performance for the last week is AdminUser
+    </div>
+    
+}
+@if(Model.ResultStatus == ResultStatus.Error)
+{
+    <div>
+        No users found! To go to dashboard click: <a asp-area="Admin" asp-controller="Home" asp-action="Index">Dashboard</a>
+    </div>
+}
+
+@section Scripts
+{
+    <script src="~/js/userIndex.js" type="application/ecmascript"></script>
+}

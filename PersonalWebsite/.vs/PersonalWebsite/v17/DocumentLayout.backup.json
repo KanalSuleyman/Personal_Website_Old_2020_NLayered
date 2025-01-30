@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E2E17-99B0-4489-847D-755513611EC0}|PersonalWebsite.Shared\\PersonalWebsite.Shared.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E2E17-99B0-4489-847D-755513611EC0}|PersonalWebsite.Shared\\PersonalWebsite.Shared.csproj|solutionrelative:personalwebsite.shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\concrete\\entityframework\\repositories\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\concrete\\entityframework\\repositories\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.services\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C78DD-620C-4B30-B0B0-452E8C79B143}|PersonalWebsite.Services\\PersonalWebsite.Services.csproj|solutionrelative:personalwebsite.services\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|c:\\users\\suley\\source\\repos\\personalwebsite\\personalwebsite.data\\abstract\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CE5172-2372-4289-88C1-5DA7F9BDCFD1}|PersonalWebsite.Data\\PersonalWebsite.Data.csproj|solutionrelative:personalwebsite.data\\abstract\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs*",
+              "RelativeToolTip": "PersonalWebsite.Services\\Extensions\\ServiceCollectionExtensions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:03:29.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "PersonalWebsite.Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:59.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfCommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:40.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:00:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "PersonalWebsite.Services\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "RelativeToolTip": "PersonalWebsite.Services\\Abstract\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Concrete\\EntityFramework\\Repositories\\EfArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:36:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\PersonalWebsite\\PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "RelativeToolTip": "PersonalWebsite.Data\\Abstract\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:35:59.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

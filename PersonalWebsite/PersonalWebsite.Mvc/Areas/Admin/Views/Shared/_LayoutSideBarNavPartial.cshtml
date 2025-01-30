@@ -1,0 +1,86 @@
+﻿<div class="sidebar">
+
+    <div class="logo-details">
+        <div class="logo">
+            <img src="~/assets/logo.png" alt="logo" id="logo_img">
+            <span class="logo-text">Süleyman Kanal</span>
+            <i class="bx bx-menu-alt-right" id="btn"></i>
+        </div>
+    </div>
+
+    <ul class="nav-list">
+        <li>
+            <i class="bx bx-search"></i>
+            <input type="text" placeholder="Search..." id="plc-src">
+            <span class="mini-item-hover">Search</span>
+        </li>
+        <li>
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index">
+                <i class="bx bxs-dashboard"></i>
+                <span class="menu-item">Dashboard</span>
+            </a>
+            <span class="mini-item-hover">Dashboard</span>
+        </li>
+        <li>
+            <div class="dropdown">
+                <a asp-area="Admin" asp-controller="Entities" asp-action="Index">
+                    <i class='bx bxs-objects-horizontal-left'></i>
+                    <span class="menu-item">Entities</span>
+                </a>
+                <i class='bx bxs-chevron-down arrow'></i>
+            </div>
+            <ul class="sub-menu">
+                <li class="menu-item dropdown-hover-title">Entities</li>
+                <li><a asp-area="Admin" asp-controller="Category" asp-action="Index">Categories</a></li>
+                <li><a asp-area="Admin" asp-controller="Article" asp-action="Index">Articles</a></li>
+                <li><a asp-area="Admin" asp-controller="Comment" asp-action="Index">Comments</a></li>
+                <li><a asp-area="Admin" asp-controller="User" asp-action="Index">Users</a></li>
+                <li><a asp-area="Admin" asp-controller="Project" asp-action="Index">Projects</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">
+                <i class="bx bxs-conversation"></i>
+                <span class="menu-item">Messages</span>
+            </a>
+            <span class="mini-item-hover">Messages</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-pie-chart-alt-2'></i>
+                <span class="menu-item">Analytics</span>
+            </a>
+            <span class="mini-item-hover">Analytics</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-data'></i>
+                <span class="menu-item">Backups</span>
+            </a>
+            <span class="mini-item-hover">Backups</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-color'></i>
+                <span class="menu-item">Website Appearance</span>
+            </a>
+            <span class="mini-item-hover">Website Appearance</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-user'></i>
+                <span class="menu-item">Account Settings</span>
+            </a>
+            <span class="mini-item-hover">Account Settings</span>
+        </li>
+        <li class="user">
+            <div class="user-details">
+                <div class="name-role">
+                    <div class="name">Süleyman Kanal</div>
+                    <div class="role">Admin</div>
+                </div>
+            </div>
+            <i class="bx bxs-log-out" id="log_out"></i>
+        </li>
+    </ul>
+</div>

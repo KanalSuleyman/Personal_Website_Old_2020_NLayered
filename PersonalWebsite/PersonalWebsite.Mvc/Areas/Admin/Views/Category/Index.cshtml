@@ -1,0 +1,97 @@
+﻿@using PersonalWebsite.Shared.Utilities.Results.ComplexTypes
+@model PersonalWebsite.Entities.Dtos.CategoryListDto
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Categories Index";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/entity-items.css"/>
+    <link rel="stylesheet" href="~/css/modal-form.css"/>
+}
+
+@if(Model.ResultStatus == ResultStatus.Success)
+{
+    <br />
+    <h1>Categories Are Here!</h1>
+    <br />
+    <br />
+    <br />
+    <div id="modalPlaceHolder"></div>
+    
+    <div class="tableDiv">
+        <div class="loader" style="display: none;">
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            <div class="loader-bar"></div>
+            Loading...
+        </div>
+        <table id="categoriesTable" class="display">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Existance</th>
+                    <th>Visibility</th>
+                    <th>Created Date</th>
+                    <th>Modified Date</th>
+                    <th>Number of the articles</th>
+                    <th>Note</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var category in Model.Categories) {
+                    <tr name="@category.Id">
+                        <td>@category.Id</td>
+                        <td>@category.Name</td>
+                        <td>@category.Description</td>
+                        <td>@(!category.IsDeleted)</td>
+                        <td>@category.IsActive</td>
+                        <td>@category.CreatedDate.ToShortDateString()</td>
+                        <td>@category.ModifiedDate.ToShortDateString()</td>
+                        <td>@category.Articles.Count</td>
+                        <td>@category.Note</td>
+                        <td class="column-operations">
+                            <button class="btn-update" data-id="@category.Id"><i class='bx bx-edit-alt'></i></button>
+                            <button class="btn-delete" data-id="@category.Id"><i class='bx bxs-trash'></i></button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Existance</th>
+                    <th>Visibility</th>
+                    <th>Created Date</th>
+                    <th>Modified Date</th>
+                    <th>Number of the articles</th>
+                    <th>Note</th>
+                    <th>Operations</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <br />
+    <br />
+    <div >
+        Category with the best performance for the last week is .Net Core
+    </div>
+    
+}
+@if(Model.ResultStatus == ResultStatus.Error)
+{
+    <div>
+        No categories found! To go to dashboard click: <a asp-area="Admin" asp-controller="Home" asp-action="Index">Dashboard</a>
+    </div>
+}
+
+@section Scripts
+{
+    <script src="~/js/categoryIndex.js" type="application/ecmascript"></script>
+}

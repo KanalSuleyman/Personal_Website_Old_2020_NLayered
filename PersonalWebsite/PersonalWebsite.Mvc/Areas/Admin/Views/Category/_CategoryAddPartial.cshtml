@@ -1,0 +1,50 @@
+﻿@model PersonalWebsite.Entities.Dtos.CategoryAddDto
+
+<div class="modal">
+    <div class="card">
+        <span class="close">&times;</span>
+
+        <form asp-action="Add" id="form-category-add">
+            <input name="IsValid" type="hidden" value="@ViewData.ModelState.IsValid.ToString()" />
+            <div asp-validation-summary="All" id="asp-validation-summary" asia-hidden="true" style="display: none;"></div>
+            <h2><i class='bx bxs-category-alt'></i>Add Category</h2>
+            <br />
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="Name" class="input__field" type="text" placeholder=" " />
+                    <span asp-for="Name" class="input__label">Name</span>
+                </label>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="Description" class="input__field" type="text" placeholder=" " />
+                    <span asp-for="Description" class="input__label">Description</span>
+                </label>
+                <span asp-validation-for="Description"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="input">
+                    <input asp-for="Note" class="input__field" type="text" placeholder=" " />
+                    <span asp-for="Note" class="input__label">Note</span>
+                </label>
+                <span asp-validation-for="Note"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="input">
+                    <span asp-for="IsActive" class="input__label__checkbox">Visibility</span>
+                    <input asp-for="IsActive" type="checkbox" />
+                </label>
+                <span asp-validation-for="IsActive"></span>
+            </div>
+
+            <div class="button-group">
+                <button type="button" class="save-button" id="btnSave">Add</button>
+                <button class="cancel" type="cancel">Cancel</button>
+            </div>
+        </form>
+    </div>
+
+</div>
